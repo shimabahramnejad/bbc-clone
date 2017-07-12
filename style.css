@@ -1,0 +1,89 @@
+#topbar{
+        
+        width:1000px; 
+        margin:0 auto;
+        height: 40px;
+    } 
+    
+    #logo {
+        margin-top: 8px;
+        margin-right:8px;
+        width: 100px;
+        float:left;
+    }
+
+    .topbar-section{
+        float:left;
+        border-left: 1px #CCCCCC solid;
+        height: 100%;
+    }
+
+     #signin-image {
+        width: 35px;
+        margin-top: 7px;
+        margin-left:15px;
+        float:left;
+    }
+
+    #signin-text {
+        font-weight: bold;
+        font-size: :90%;
+        position:  relative;
+        top: 14px;
+        left: 5px;
+        padding-right:50px;
+    }
+
+    #wigglyline{
+        float:left;
+         height: 40px;
+    }
+
+
+    #bell{
+        height: 25px;
+        margin: 8px 8px;
+    }
+
+    #bell-div{
+        float: left;
+    }
+
+    .topbar-menu{
+        font-weight: bold;
+        font-size: 90%;
+        padding: 13px 15px 0 15px;
+        height: 27px;
+    }
+
+    #more-arrow{
+        width: 10px;
+        height: 8px;
+        margin-left: 15px;
+    }
+
+    #search-box{
+        background-color: #E4E4E4;
+        border: none;
+        font-weight: bold;
+        font-size: 14px;
+        padding:5px;
+        margin: 5px 0 5px 5px;
+        float: left;
+    }
+
+    #mglass{
+            width: 30px;
+            height: 27px;
+            margin-top: 5px;
+        }
+
+    #searchbox-div{
+            margin-top: 5px;
+        }
+    
+    body {
+        margin:0px;
+        padding:0px;
+        font-family: Helvetica, Arial, sans-serif;
+    }
